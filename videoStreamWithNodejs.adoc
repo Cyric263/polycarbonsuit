@@ -1,0 +1,158 @@
+
+
+=== Title: Video stream with Node.js and HTML5
+
+=== By: Diogo Spinola
+
+=== Dated: July 23 - 5 minute read.
+
+=== Source Link: https://medium.com/@daspinola/video-stream-with-node-js-and-html5-320b3191a6b6
+
+
+=== Notes from original Article
+
+_The "challenge" was to make a route sending a .mp4 file to a page and make the video available to be seen._
+
+How he broke it down:
+
+1. Make a server route to feed the video
+
+2. HTML5 and JS to request the feed.
+
+3. Make the video load in "parts" instead of loaded from the start.
+
+* A working demo found here: https://github.com/daspinola/video-stream-sample
+
+=== Streams
+
+* Video works by streaming or sending little chunks at a time.
+
+* You use streaming for sending video or large chunks of text.
+
+=== Theory
+
+1. fs in node has a method called *statSync* that will return the stats of a file.
+
+2. We need the file size which we need to know when the current load chunk has reached the end of the file.
+
+3. You can also use *stat* - tried to avoid synchronicity to try to keep the code easier to understand for newcomers.
+
+*Creating a stream from a file:* fs contains another method called *createReadStream* which will create a stream given a file, the start and end chunks.
+
+----
+
+const fileChunk = fs.craeteReadStream(sample.mp4,{start, end});
+
+----
+
+*The size of the chunks:* The starting chunk will be made available to you in the request, to know how much of the file to load I subtract the end chunk size (when not available use the complete file size) with the starting chunk size.
+
+----
+
+endCHunk - startChunk
+
+----
+
+*HTTP 206:* This is used for partial content which is what we want has the header of our connection since we are continuously feeding the front end with ch unks and we want to have available our starting chunk when a request is made.  You have to define in the least:
+
+----
+
+'Content-Range': 'bytes chunkStart-chunkEnd/chunkSize'
+'Accept-Ranges': 'bytes'
+'Content-Length': chunkSize
+'Content-Type': 'video/mp4'
+
+----
+
+=== The server
+
+... I ended up with something like this in my route named _video_ (To create theroute I'm using express)
+
+----
+
+app.get('/video', function(req, res) {
+  const path = 'assets/sample.mp4'
+  const stat = fs.statSync(path)
+  const fileSize = stat.size
+  const range = req.headers.range
+  if (range) {
+    const parts = range.replace(/bytes=/, "").split("-")
+    const start = parseInt(parts[0], 10)
+    const end = parts[1] 
+      ? parseInt(parts[1], 10)
+      : fileSize-1
+    const chunksize = (end-start)+1
+    const file = fs.createReadStream(path, {start, end})
+    const head = {
+      'Content-Range': `bytes ${start}-${end}/${fileSize}`,
+      'Accept-Ranges': 'bytes',
+      'Content-Length': chunksize,
+      'Content-Type': 'video/mp4',
+    }
+    res.writeHead(206, head);
+    file.pipe(res);
+  } else {
+    const head = {
+      'Content-Length': fileSize,
+      'Content-Type': 'video/mp4',
+    }
+    res.writeHead(200, head)
+    fs.createReadStream(path).pipe(res)
+  }
+});
+
+----
+
+That is a bit of code to take in, don’t worry, you can always debug it more easily with the demo. Let me try to explain the flow:
+
+* When a request is made we get the file size and send the first few chunks of the video in the else statement;
+
+* When we start watching the video (by accessing the route via localhost:3000/video or from the front end), subsequent requests are made, this time with the range in the header, meaning that we know the starting point of our next chunk;
+
+* Read the  file again to create another stream, passing along the new value for the start and end (which will most likely be the current part that came in the request header and the file size of the video)
+
+* We set our 206 header response to send only part of our newly made stream by applying the formula we talked earlier.
+
+=== The front end
+
+The front end is surprisingly easy with HTML5 <video> tag you just need to add a source route and it will handle the rest for you.
+
+----
+
+<video id="videoPlayer" controls>
+  <source src="http://localhost:3000/video" type="video/mp4">
+</video>
+
+// The controls attribute allows you to see the players controls
+
+----
+
+Without it you can instead program those and other properties yourself by accessing the player element in this case the id videoPlayer . SO if you have a button on your HTML you can do something like this to replicate the play/stop button:
+
+
+----
+
+const VP = document.getElementById('videoPlayer') // player
+const VPToggle = document.getElementById('toggleButton') // button
+
+VPToggle.addEventListener('click', function() {
+  if (VP.paused) VP.play()
+  else VP.pause()
+})
+
+----
+
+
+In the network tab on you developer tools you can see the streaming in chunks, specially if you throttle your connection
+
+=== Closing Remarks
+
+I was not expecting for this to go so smoothly for a simple implementation, there are flaws in this implementation of course like the starting chunks not always being what is expected (probably because of connection hanging since I am not handling that in this sample).
+
+Nonetheless I find it to be a good starting point for those wanting to start doing some kind of streaming application. If you have a better or less error prone approach let me know!
+
+* Working demo - https://github.com/daspinola/video-stream-sample
+
+
+
+
