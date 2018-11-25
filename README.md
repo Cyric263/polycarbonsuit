@@ -8,6 +8,19 @@ turning Tarot into action steps
 === alien_conversattions_june9th2018.adoc .pdf
 real conversations with aliens of all dimensions
 
+
+=== lesson245_snippet_acim.adoc
+Your peace is with me, Father. I am safe.
+
+=== lesson248_acims_snippet.adoc
+Whatever suffers is not part of me.
+
+=== lesson249_acims_snippet.adoc
+Forgiveness ends all suffering and loss.
+
+=== lesson250_acims_snippet.adoc
+Let me not see myself as limited.
+
 === a_quicker_pace_to_serenity.adoc
 letting go of cluttered thoughts for ACIM's thoughts
 
