@@ -14,4 +14,5 @@ letting go of cluttered thoughts for ACIM's thoughts
 === telepathic_internetchat_#4.adoc
 more conversations with aliens via telepathic human
 
-
+=== typesofreadings.adoc
+getting creative with different types of readings
