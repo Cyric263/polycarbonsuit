@@ -29,3 +29,6 @@ more conversations with aliens via telepathic human
 
 === typesofreadings.adoc
 getting creative with different types of readings
+
+=== writings_nov182018
+more CIM snippets
