@@ -1,0 +1,510 @@
+
+
+=== Title:  Writings from November 2018
+
+=== Date: Dec. 23, 2018
+
+=== Subject: Course In Miracles Snippets and Entries.
+
+
+----
+
+<!DOCTYPE html>
+<html>
+
+<link href="https://fonts.googleapis.com/css?family=Cormorant" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+<title>&lt;writings&gt; </title>
+
+<style>
+
+body {
+color: #9ab4aa;
+background: #141d26;
+font-family: 'Cormorant', serif;
+margin: 40px;
+}
+
+div {
+font-family: 'Fira Sans', sans-serif;
+padding: 6px;
+border: solid;
+border-radius: 4px;
+}
+
+img {
+     max-width: 100%;
+}
+
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+  color: 9ab4aa;
+  background: #1b2836;
+  display: grid;
+  grid-template-columns: 65% 34.5%;
+  grid-template-rows: auto;
+  grid-gap: 6px;
+  border-radius: 4px;
+  border: solid;
+  padding: 1%;
+  line-height: 1.5;
+
+}
+
+span {
+color: #889996;
+background: #243447;
+padding: 1%;
+border-radius: 4px;
+
+}
+
+
+
+@media (min-width: 640px) { body {font-size:1rem;} } 
+@media (min-width:960px) { body {font-size:1.2rem;} } 
+@media (min-width:1100px) { body {font-size:1.5rem;} } 
+
+/* Tablet Landscape */
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
+img {
+     max-width: 100%;
+}
+
+video {
+	max-width: 100%;
+	height: auto;
+}
+
+.footer {
+grid-column-start: 1;
+grid-column-end: 3;
+font-size:16px;
+color: #9ab4aa;
+background: #1b2836;
+}
+
+a, .boldgreen	{
+font-weight: bold;
+text-decoration: none;
+color: #9ab4aa;
+}
+
+/* mouse over link */
+a:hover {
+color: #36393e;
+background: #9ab4aa;
+}
+
+/* selected link */
+a:active {
+color: #36393e;
+background: #9ab4aa;
+}
+
+
+
+</style>
+
+
+
+
+<body>
+<h3><a href="https://zack263.neocities.org/" target="_blank">https://zack263.neocities.org/</a></h3>
+<nav><h4>
+<a href="https://zack263.neocities.org/index.html">Bull</a> /
+<a href="https://zack263.neocities.org/readings.html">Read</a> /
+<a href="https://zack263.neocities.org/writings.html">Write</a> /
+<a href="https://zack263.neocities.org/angels.html">Angels</a> /
+<a href="https://zack263.neocities.org/spirituality.html">Spirit</a> /
+<a href="https://zack263.neocities.org/linux.html">Lin</a> /
+<a href="https://zack263.neocities.org/windows.html">Win</a> /
+<a href="https://zack263.neocities.org/vim.html">Vim</a> /
+<a href="https://zack263.neocities.org/code.html">Code </a> /
+<a href="https://zack263.neocities.org/sound.html">Sound </a> / 
+<a href="https://zack263.neocities.org/backups.html">Back</a> 
+</h4>
+<div class="wrapper">
+
+<div>  <!-- first column -->
+
+
+<p><span>Writings</span></p>
+
+
+<p><span><b>A Must Read... &#8212; Monday, November 19th, 2018</span></p>
+<p>
+Lessons 190 and 191 turn out to be a really inspirational and a powerful read!  Here are some snippets...
+</p>
+
+<p>Lesson 190 Snippets: "I choose the joy of God instead of pain."</p>
+<ol>
+<li>[Pain...] ... "There is no form it takes that will not disappear if seen aright."</li></br>
+<li>"Pain is a sign illusions reign in place of truth. It demonstrates God is denied,..."</li></br>
+<li>"If god is real, there is no pain.  If pain is real, there is no God."</li></br>
+<li>"It is your thoughts alone that cause you pain."</li></br>
+<li>"There is nothing in the world that has the power to make you ill or sad, or weak or frail.  But it is you who have the power to dominate all things you see by merely recognizing what you are."</li></br>
+</ol>
+</br>
+
+<p>Lesson 191 Snippets: "I am the holy Son of God Himself."</p>
+<ol>
+<li>"Here is your declaration of release from bondage of the world. And here as well is all the world released."</li></br>
+<li>"... Deny your own Identity, and you will not esape the madness which induced this weird, unnatural and ghostly thought that mocks creation and that laughs at God ..."</li></br>
+<li>... "Deny your own Identity, and look on evil, sin and death, and watch despair snatch from your fingers every scrap of hope, leaving you nothing but the wish to die."</li></br>
+<li>"Yet what is it except a game you play in which Identity can be denied?  You are as God created you. All else but this one thing is folly to believe."</li></br>
+<li>"... let today's idea find a place among your thoughts and you have risen far above the world, and all worldy thoughts that hold it prisoner."</li></br>
+
+</ol>
+
+
+
+<p>
+<center>I Choose The Joy Of God Instead Of Pain. <a href="https://acimi.com/a-course-in-miracles/workbook/lesson-190" target="_blank">&#8212; Lesson 190</a></center>
+
+</br></br>
+
+<center>I Am The Holy Son Of God Himself. <a href="https://acimi.com/a-course-in-miracles/workbook/lesson-191" target="_blank">&#8212; Lesson 191</a></center>
+</p>
+</br></br>
+
+
+<center>
+
+
+<p><span><b>Review V - Introdution &#8212; Wed, November 14th, 2018</span></p>
+
+<center>
+
+<p>"God is but Love,</br></br> and therefore so am I."</p> 
+
+</center>
+</br></br>
+
+<p><span><b>Re-examination and Reflections on Lesson 151</br> &#8212; Friday, November 9th, 2018</span></p>
+
+<p>Lesson 151 is titled, "All things are echoes of the Voice for God."  And as much as I wanted to zoom through the reading
+of the book, some things just beg for a slower reflection.  Lesson 151 is one of those sections.  The beginning few paragraphs
+are very strong in the message that your senses, eyes, ears, nose, don't always see the total truth...</p> 
+
+<p>
+"You think your fingers touch reality, and close upon the truth.  This is awareness that you understand, and think more real than what is witnessed to by the eternal Voice for God Himself."
+</p>
+
+<p>
+"... You cannot judge.  You merely can believe the ego's judgements all of which are false."
+</p>
+
+<p>"... Yet you must learn to doubt their evidence will clear the way to recognize yourself, and let the Voice for God alone be Judge of what is worth of your own belief."  </p>
+
+<p>"He will remove all faith that you have placed in pain, disaster, suffering and loss.  He gives you vision which can look beyond these grim appearances..."</p>
+
+<p>"He will reinterpret all you see, and all occurances,..." "And you will see the love beyond the hate, the constancy in change, the pure in sin, and only heaven's blessing on the world. ...</p>
+
+<p>"Such is your resurrection, for your life is not part of anything you see."</p>
+
+<p>... "So will you see the holy face of Christ in everything, and hear in everything no sound except the echoe of God's Voice."</p>
+</br></br>
+
+
+<center>Read the entire text here: <a href="https://acourseinmiraclesnow.com/a-course-in-miracles-workbook-lesson-151/" target="_blank">&#8212; Lesson 151 ACIM</a></center>
+
+
+
+<p><span><b>Next lesson is titled: The Power of Decision Is My Own - 152</br> &#8212; November 8th, 2018</span></p>
+
+<p>Snippet to spark some interest:</p>
+
+<p>
+<i>"No one can suffer loss unless it be his own decision.  No on suffers pain except his choice elects this state for him.  No one can grieve nor fear nor think him sick unless these are the outcomes that he wants.  And no one dies without his own consent.  Nothing occurs but represents your wish, and nothing is omitted that you choose.  Here is your world, complete in all details.  Here is its whole reality for you.  And it is only here salvation is."</i>
+</p>
+
+<p><i>... "Yet can truth have exceptions? If you have the gift of everything, can loss be real? Can pain be part of peace, or grief of joy?  Can fear and sickness enter in a mind where love and perfect holiness abide?  Truth must be all-inclusive, if it be the truth at all.  Accept no opposites and no exceptions, for to do so is to contradict the truth entirely."</i></p>
+
+<p><i>"Salvation is the recognition that the truth is true, and nothing else is true. ..."</i></p>
+
+<center>You'll have to read the rest yourself, ha! ha! <a href="http://www.acim.org/Lessons/lesson.html?lesson=152" target="_blank">&#8212; Lesson 152 Text</a></center>
+
+</br></br>
+
+
+
+</br>&#8212; Friday, November 2nd, 2018</span></p>
+<p><span><b>Hitting Lesson 136 and 137 last night...</br>&#8212; Friday, November 2nd, 2018</span></p>
+
+<p>
+Last night I hit Lessons 136 and 137 in the Course In Miracles Workbook.  Lesson 136 is titled, <u>"Sickness is a defense against the truth."</u>  And lesson 137 is titled, <u>"When I am healed I am not healed alone."</u>
+</p>
+
+<p>I suppose my highlights of the text do not bring forth just how well the book is written.  Each sentence could practically be it's own quote; the words do have a certain ring, a certain vibration that will bring peace.  Below I share just a few snippets from lesson 136:</p>
+
+<p>
+<ul>
+<li>"The world obeys the laws that sickness serves, but healing operates apart from them."</li>
+
+<li>"... healing is his own decision to be one again, and to accept his Self with all Its parts intact and unassailed."</li>
+
+<li>"... eyes accustomed to illusions must be shown that what they look upon is false."</li>
+
+<li>"So healing, never needed by the truth, must demonstrate that sickness is not real."</li>
+
+</br>
+
+<li>"Yet think not healing is unworthy of your function here.  For anti-Christ becomes more powerful than Christ to those who dream the world is real."</li>
+
+<li>"healing is freedom.  For it demonstrates that dreams will not prevail against the truth."</li>
+
+<li>"His laws replace the ones you made to hold yourself a prisoner to death.  His life becomes your own, as you extend the little help He asks in freeing you from everything that ever caused you pain."</li>
+
+<li>"... let yourself be healed,..."</li>
+
+</br>
+
+<li>"What is oposed to God does not exist, ..."</li>
+
+<li>"... illusions brought to truth."</li>
+
+</ul>
+
+</p>
+
+</br>
+
+<p>Meditation Words for 136:</p>
+<p>
+<i>"I have forgotten what I really am, for I mistook my body for myself. Sickness is a defense against the truth.  But I am not a body.  And my mind cannot attack.  So I can not be sick."</i>
+</p>
+
+</br>
+
+<p>Meditational Words for 137:</p>
+<p>
+<i>"When I am healed I am not healed alone.   And I would share my healing with the world, that sickness may be banished from the mind of God's one Son, Who is my own Self."</i>
+</p>
+
+<p>And...</p>
+
+<p>
+<i>"When I am healed I am not healed alone.  And I would bless my brothers, for I would be healed with them, as they are healed with me."</i>
+</p>
+
+</br></br>
+
+<p><span><b>Lesson 124 - "Let me remember I am one with God."</br>&#8212; Sunday, October 29th, 2018</span></p>
+
+<p>"Today we will again give thanks for our identity in God.  Our home is safe protection guaranteed in all we do.</p>
+
+<p><center>Power and strength available to us in all our undertakings.</br>
+We can fail in nothing!</br></center>
+</p>
+
+<p><center>
+Everything we touch takes on a  shinning light that blesses and heals.
+</p></center>
+
+<p><center>
+At one with God and with the universe</br>
+we go our way rejoicing with the thought</br>
+that God himself goes</br>
+everywhere with us.</br>
+</p></center>
+
+<p><center>
+How holy are our minds!  And everything, we see reflects the holiness within the mind</br>
+at one with God and with itself.</br>
+</p></center>
+
+<p><center>
+How easily do errors disappear, and death give place to everlasting life.
+</p></center>
+
+<p><center>
+No thought of this but has the </br>
+power to heal all forms of suffering in </br>
+anyone, in times gone by and times as </br>
+yet to come, as easily as the ones </br>
+that walk beside them now. </br>
+</p></center>
+
+<p><center>
+Their thoughts are timeless and apart from distance as apart from time."
+</p></center>
+</br></br>
+
+<p><span><b>Reflections from A Course In Miracles Workbook</br>&#8212; Friday, October 26th, 2018</span></p>
+
+<p>[ "Forgive and be forgiven.</br>  As you give you will recieve.</br>  Forgiveness offers everything I want" - #122</p>
+
+<p>"Miracles are seen in the light.</br>  Miracles are seen in the light,</br> and light and strength are one." - ACIM</p>
+
+<p>"Forgiveness is the key to happiness.</br>  I will awaken from the dream that I am mortal,</br> fallible and full of sin,</br> and know I am the perfect Son of God."</p>
+
+<p>Whatever challenges you are seeing in Life; </br>Challenge yourself to forgive them!" ]</p> 
+<p>
+
+</p>
+
+</br></br>
+
+
+<!--
+Example Video
+<center>
+<div class="video-container">
+	<iframe src="https://www.youtube.com/embed/tj_QPnO8vpQ" frameborder="0"></iframe>
+</div>
+</center>
+</br></br>
+-->
+
+</div> <!-- end of first column -->
+
+
+
+<div> <!-- side column here --> 
+</br>
+
+
+<p>
+
+
+
+
+<p><center>Empty</center>
+<center>&#8212 Empty</center>
+</p>
+
+
+
+
+</br></br></br></br>
+
+
+
+<p>
+"In Wisdom thou wilt not find fault.</br>
+In Wisdom thou will not condemn any.  </br>
+In Wisdom thou wilt not cherish grudges."</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8212; Edgar Cayce </br>
+</p>
+</br>
+</br>
+<p>
+"Everything here in your 3rd dimensional existence is likely not true."
+</p>
+</br></br></br></br>
+
+
+</br></br></br></br></br>
+
+
+<!--
+<center>
+<center><a href="https://www.citylab.com/"target="_blank"><img src = "citylab.png"></a></center>
+
+</center>
+</br>
+-->
+<!--
+
+<p><b>Some of the Concepts in Ascension:</b></p>
+<p>The sun will hickup and send energy through earth absorbing into everything.  The event may feel like taking off a pair of dark sun glasses. 
+Your hand might appear differently.  Earth might go through vast changes...  Alien Ships might appear to help humans in a time of need. 
+It may render electronics non-functional.  The event may happen slower and go over a longer period of time. </p>
+
+The Predictions of the event maybe unaccurate.  Time frames also unaccurate.  Some say 5yrs while others say 50 to 100 years.  Others hint very soon.
+
+</br></br>
+
+-->
+
+</div>
+
+
+
+<div class="footer"> <!-- Quotes Here! -->
+
+<p>"Waves and Waves and Waves of Love Incoming to you- Know It, Feel it. <a href="https://youtu.be/q41anE-JnRA" target="_blank">&#8212 Metatron #416 &#8212Lord of the Universe</a></p>
+
+<p>"Anchor yourself in love; Choose to speak with Love; It is love that causes the awakening to occur." <a href="https://youtu.be/J5H95FIjCKk" target="_blank">&#8212 Metatron #426 &#8212 Lord of the Universe</a></p>
+
+<p>"What you hold in mind tends to manifest" <a href="https://youtu.be/ICyjwWBSmMI" target="_blank">&#8212 David R. Hawkings</a>
+
+<p>"The ego is a wrong minded attempt to see yourself as you wish to be, rather than as you are. Ego is capable of asking questions but not perceiving meaningful answers, because they would involve Knowledge and can not be perceived. " <a href="https://youtu.be/ICyjwWBSmMI" target="_blank">&#8212 Jesus via Course In Miracles</a></p>
+
+<p>"let our minds be healed, that we may carry healing to the world, exchanging curse for blessing, pain for joy, and separation for peace of God."  <a href="https://acourseinmiraclesnow.com/a-course-in-miracles-workbook-lesson-137/" target="_blank">&#8212 137-ACIM</a></p>
+
+<p>"Let healing be through you this very day." <a href="https://acourseinmiraclesnow.com/a-course-in-miracles-workbook-lesson-137/" target="_blank">&#8212 137-ACIM</a></p>
+
+</br></br> &#8212 Updated: November. 9th, 2018</p></br>
+
+
+
+
+
+</div> <!-- Ending Quotes -->
+
+<!--
+New Sites to Feature:
+inc.com
+UNILAD
+richard stallman
+gaia
+makeuseof.com
+-->
+
+<!-- 
+
+NOTES
+=====
+
+VIDEO HTML
+==========
+</br>
+<div class="video-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNpzjSLtwu8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</br>
+
+-->
+
+
+
+
+</div>
+</br></br>
+
+</body>
+</html>
+
+----
+
+
