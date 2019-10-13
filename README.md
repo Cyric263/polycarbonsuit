@@ -20,6 +20,11 @@ turning Tarot into action steps
 === alien_conversattions_june9th2018.adoc .pdf
 real conversations with aliens of all dimensions
 
+=== enlightenmentchangesthebrain.adoc
+quick-notes
+
+=== isisinamericahentrysteelolcott.adoc
+quick-notes
 
 === lesson245_snippet_acim.adoc
 Your peace is with me, Father. I am safe.
@@ -33,8 +38,23 @@ Forgiveness ends all suffering and loss.
 === lesson250_acims_snippet.adoc
 Let me not see myself as limited.
 
+=== lemuria1.adoc
+quick-reading-notes
+
+=== lemuria2.adoc
+quick-reading-notes
+
 === a_quicker_pace_to_serenity.adoc
 letting go of cluttered thoughts for ACIM's thoughts
+
+=== thesecretdoctrine1.adoc
+quick-reading-notes
+
+=== thesecretdoctrine2.adoc
+quick-reading-notes
+
+=== thesecretdoctrine3.adoc
+quick-reading-notes
 
 === telepathic_internetchat_#4.adoc
 more conversations with aliens via telepathic human
