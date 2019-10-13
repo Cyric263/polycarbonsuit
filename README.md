@@ -26,6 +26,9 @@ quick-notes
 === isisinamericahentrysteelolcott.adoc
 quick-notes
 
+=== kungfu.adoc
+the spirituality behind kungfu - brief-notes
+
 === lesson245_snippet_acim.adoc
 Your peace is with me, Father. I am safe.
 
