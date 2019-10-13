@@ -2,6 +2,18 @@
 
 === polycarbonsuit tabulations
 
+=== acim272.adoc
+quickknotes on 272
+
+=== acim274.adoc
+quicknotes on 274
+
+=== acim275. adoc
+quicknotes on 275
+
+=== acim276.adoc
+quicknotes on 276
+
 === action_reading.adoc
 turning Tarot into action steps
 
