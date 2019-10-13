@@ -23,6 +23,9 @@ real conversations with aliens of all dimensions
 === enlightenmentchangesthebrain.adoc
 quick-notes
 
+=== floweroflife.adoc
+short notes - Drunvalo Melchizedek
+
 === isisinamericahentrysteelolcott.adoc
 quick-notes
 
@@ -47,6 +50,9 @@ quick-reading-notes
 === lemuria2.adoc
 quick-reading-notes
 
+=== mysticsandmiracles.adoc
+True Stories of Lives Touched by God
+
 === a_quicker_pace_to_serenity.adoc
 letting go of cluttered thoughts for ACIM's thoughts
 
@@ -58,6 +64,12 @@ quick-reading-notes
 
 === thesecretdoctrine3.adoc
 quick-reading-notes
+
+=== tao.adoc
+learning about chinese tao and Lao Tzu
+
+=== taoistwisdom.adoc
+ideas and concepts of taoist
 
 === telepathic_internetchat_#4.adoc
 more conversations with aliens via telepathic human
