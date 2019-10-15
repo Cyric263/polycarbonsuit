@@ -79,3 +79,14 @@ getting creative with different types of readings
 
 === writings_nov182018
 more CIM snippets
+
+=== ending_writingFeb32019.html
+Quote-Mashup reflecting A-Course-In_Miracles Content.
+
+=== middle4writingmay72019.html
+Quote-Mashup reflecting ACIM content.
+
+=== middle2writingjune202019.html
+Quote-Mashup reflecting ACIM content.
+
+
